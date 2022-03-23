@@ -1,2 +1,2 @@
-This application will now be turned into a web application using the J2EE Framework and will initialy [D[D[D[D[D[D[D[D[D[D[D[C[C[D be initially deployed on GlassFish Application server, looking to host it on a JVM enabled open source public server later on
+This application will now be turned into a web application using the J2EE Framework and will be initially deployed on GlassFish Application server, looking to host it on a JVM enabled open source public server later on
 
